@@ -1,0 +1,4 @@
+body { background-color: #f6f8fb; }
+.hero { background: linear-gradient(135deg, #0d6efd, #3f8efc); color: #fff; border-radius: 1rem; padding: 3rem; }
+.card img.doctor-photo { height: 220px; object-fit: cover; }
+.stat-card { border-left: 4px solid #0d6efd; }
