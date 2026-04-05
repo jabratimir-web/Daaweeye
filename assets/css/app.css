@@ -1,0 +1,4 @@
+body { background: #f5f8ff; }
+.hero { background: linear-gradient(135deg,#0d6efd,#083b9a); color:#fff; border-radius:16px; padding:48px 24px; }
+.card-doctor img { height:220px; object-fit:cover; }
+.stat-card { border-left:4px solid #0d6efd; }
